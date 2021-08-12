@@ -1,7 +1,7 @@
 # Amazon Vine Analysis
 
 ## Analysis Purpose
-### The purpose of this analysis was to determine if paid reviews are biased in the Amazon pet product dataset.
+### The purpose of this analysis was to determine if paid Vine reviews are biased in the Amazon pet product dataset.
 
 ## Results
 ### The analysis showed the following results (https://github.com/awolfe95/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis.png): 
